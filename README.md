@@ -118,14 +118,6 @@ ListaDeTarefas_desafio/
 - [ ] Editar nome e quantidade
 - [ ] Modo escuro
 
-## 👋 Quem fez
-
-**[Seu nome aqui]**
-[GitHub](https://github.com/seu-usuario) · [LinkedIn](https://linkedin.com/in/seu-usuario) · [seu@email.com](mailto:seu@email.com)
-
-## 📄 Licença
-
-Distribuído sob a licença do arquivo [`LICENSE`](./LICENSE).
 
 <div align="center">
 <sub>Feito com 💚 por Alana Corso</sub>
